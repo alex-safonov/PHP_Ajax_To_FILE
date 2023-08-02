@@ -1,3 +1,4 @@
+<?php
 $input_text_ar = $_POST['selectedColumns']; //или $_POST['input_text'] если передается через $_POST
 //$input_text = 'fee4'; //или $_POST['input_text'] если передается через $_POST
 //                $fp = fopen('"../ajaxfile2.txt', 'a'); //a - для добавления в конец или w для перезаписи
